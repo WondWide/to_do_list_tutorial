@@ -10,6 +10,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d5f0a3f4-0a1f-474a-b110-7e5b2fb2e6e3/deploy-status)](https://app.netlify.com/sites/effortless-cucurucho-07397c/deploys)
 
+https://wondwidetodolist.netlify.app/ I did it!
+
 **Description:**
 
 In this tutorial, we will build a to do list app with HTML, SASS / CSS, and Vanilla Javascript. Our to do list web app will be responsive with mobile first in mind. The to do list app will also be built with accessibility (A11y) in mind for keyboard navigation and screen readers. We will also use the Web Storage API to create a persistent data store so our list items reappear any time we visit the web app.
